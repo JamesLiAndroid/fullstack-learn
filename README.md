@@ -70,4 +70,4 @@ supervisor + gunicorn
 
 ## nodejs
 
-待补充
+express + mongodb
